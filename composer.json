@@ -1,0 +1,16 @@
+{
+    "name": "rectorphp/issue8100",
+    "autoload": {
+        "psr-4": {
+            "Rectorphp\\Issue8100\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "y"
+        }
+    ],
+    "require-dev": {
+        "rector/rector": "^0.18.5"
+    }
+}
